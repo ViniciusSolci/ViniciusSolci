@@ -1,5 +1,5 @@
 - Hi, I’m @ViniciusSolci
-- I’m interested in footbal (the regular one, not the one with the egg ball), video games and horror movies
+- I’m interested in footbal (the regular one, not the one with the egg ball), flag football, video games and horror movies
 - I’m currently learning flutter/dart, JavaScript and improve my Java and Kotlin skills
 - I’m looking to collaborate on anything I can help
 - How to reach me 
